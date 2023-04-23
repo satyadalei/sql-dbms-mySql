@@ -1,0 +1,1 @@
+This is apractice repositry on sql using mySQL DBMS
